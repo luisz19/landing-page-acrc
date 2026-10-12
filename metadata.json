@@ -1,0 +1,8 @@
+{
+  "name": "Ana Cláudia Rodrigues Cruz | Ciências Contábeis",
+  "description": "Serviços contábeis e regularização empresarial para MEI e ME com atendimento próximo, transparente e estruturado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
